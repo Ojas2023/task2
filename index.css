@@ -1,0 +1,164 @@
+.top{
+	background-color:#ffffff;
+    display:flex;
+    margin-top:0px;
+    margin-left:auto;
+    margin-right:auto;
+    align-items:center;
+    height:110px;
+}
+.topleft{
+	color:darkblue;
+	display:flex;
+	flex-direction:row;
+	font-size: large;
+	font-weight:bold;
+	justify-content:space-between;
+	padding:20px 20px 20px 20px;
+    margin-top:2px;
+	width: 60vw;
+    }
+.topright{
+	color:darkblue;
+	display:flex;
+	justify-content:space-between;
+	padding:20px;
+	width:30vw;
+	margin-top:0px;
+	margin-right:0px;
+	
+	}
+.tag{
+	display:flex;
+	flex-direction:column;
+	font-size:larger;
+	align-items:center;
+	text-decoration: underline;
+}
+#free{
+	background-color:#2e844a;
+	font-weight:bold;
+	height:60px;
+	width: 130px;;
+	border-radius:5px;
+	font-size:medium;
+	color:white;
+	}
+.icon{
+	width:25px;
+	align-items:end;
+	justify-items:center;
+	color: #032d60;
+	padding-top:20px;
+}
+.ribbon{
+	display:flex;
+    margin-top:0px;
+	background-color:#032d60;
+	height:50px;
+    justify-content:center;
+	padding:5px 5px 5px 5px;
+	color:white;
+	margin-right:0px;
+	margin-left:0px;
+}
+#image{
+	padding-bottom:5px;
+	height:30px;
+	width:100px;
+}
+#Dreamforce{
+   font-weight:bold;
+   text-align:center;
+   justify-content:center;
+   align-items:flex-end;
+   padding-top:18px;
+   font-size: large;
+   width:30vw;
+}
+#it{
+	padding-top:18px;
+	font-size: large;
+    text-decoration:underline;
+}
+.mainbody{
+	display:flex;
+	flex-direction: row;
+	margin-top:0px;
+	margin-left:30px;
+	width:100vw;
+	}
+.bodytext{
+	display:flex;
+	flex-direction:column;
+    width:50vw;
+}
+.business1{
+	margin-top:75px;
+	font-size:60px;
+	font-weight:bold;
+	color:#032d60;
+	width:50vw;
+	}
+.business2{
+	margin-top:10px;
+	font-size:60px;
+	font-weight:bold;
+	color:#032d60;
+	width:50vw;
+	}
+.content1{
+	margin-top:20px;
+	font-size:25px;
+	width:60vw;
+	color:black;
+}
+.content2{
+	margin-top:8px;
+	font-size:25px;
+	width:60vw;
+	color:black;
+}
+.content3{
+margin-top:8px;
+font-size:25px;
+width:60vw;
+color:black;
+}
+.buttons{
+	height:50px;
+	width:150px;
+	margin-top:15px;
+	display:flex;
+	padding:20px;
+	}
+.discover{
+	width:400px;
+	border-radius:10px;
+    background-color:#0176d3;
+	padding:10px  50px 50px 50px;
+	font-weight:bold;
+	font-weight:bold;
+	color:white;
+	text-align: center;
+	font-size:15px;
+	}
+.demo{
+	margin-left:30px;
+	font-size:15px;
+	width:400px;
+	border-radius:10px;
+	background-color:white;
+	color:#21afea;
+	border-color: #21afea;
+	font-weight:bold;
+	padding:10px 50px 50px 50px;
+	text-align: center;
+}
+.sales{
+	width:500px;
+	margin-right:20px;
+	}
+
+
+
